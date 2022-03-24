@@ -1,0 +1,37 @@
+@media screen and (max-width: 380px) {
+  .container {
+    width: 90%;
+  }
+
+  .btn-container {
+    flex-direction: column;
+  }
+
+  .btn-container > button {
+    width: 95%;
+    margin: 0;
+  }
+
+  .btn-container > button:nth-child(1) {
+    margin-bottom: 15px;
+  }
+
+  .inputs-container > button {
+    width: 35px;
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .inputs-container {
+    flex-direction: column-reverse;
+  }
+
+  .inputs-container > button {
+    width: 95%;
+    margin: 5px 0 10px 0;
+  }
+
+  .inputs-container > input {
+    width: 95%;
+  }
+}
