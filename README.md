@@ -13,7 +13,7 @@ Copyright (c) 2022, Evil-Coder-11212<br/>
 To do list is still in the process of making.
 | Hours Per Day | Days Per Week |
 | ------------- | ------------- |
-|     Coming Soon!   |     Coming Soon!    |
+|     2   |     3    |
 
 ## Quotes for programmer
 ```
